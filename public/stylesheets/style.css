@@ -1,8 +1,49 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+/*Overriding Materialize Files with this file.
+Include it last when you load the CSS files.*/
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+	color: #e57373;
 }
 
-a {
-  color: #00B7FF;
+.nav-wrapper {
+	background-color: #4db6ac;
 }
+
+.nav-wrapper .a {
+	padding-left: 16px;
+}
+
+.btn, .btn:hover {
+	background-color: #e57373;
+}
+
+#banner {
+	background-color: #4db6ac;
+}
+
+#banner .container .row .col .h1 {
+	color: white;
+	margin-bottom: 0px;
+}
+
+strong {
+	/*color: #4db6ac;*/
+	color: #009688;
+	font-weight: 400;
+}
+
+.card-image img {
+	
+}
+
+/*p {
+	font-size: 15px;
+}*/
+
+/*#banner .container .row .col h4 {
+	color: white;
+}*/

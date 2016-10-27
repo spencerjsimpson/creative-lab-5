@@ -1,0 +1,68 @@
+var homeless = [
+	{
+		"first" : "Josh",
+		"last" : "Lucero",
+		"age" : "19",
+		"money" : {
+			"food" : "$9.80",
+			"clothing" : "$15.46",
+			"housing" : "$51.24",
+			"travel" : "$2.50"
+		}
+	},
+	{
+		"first" : "Roger",
+		"last" : "Collins",
+		"age" : "58",
+		"money" : {
+			"food" : "$9.80",
+			"clothing" : "$15.46",
+			"housing" : "$51.24",
+			"travel" : "$2.50"
+		}
+	},
+	{
+		"first" : "Jameson",
+		"last" : "Beck",
+		"age" : "28",
+		"money" : {
+			"food" : "$9.80",
+			"clothing" : "$15.46",
+			"housing" : "$51.24",
+			"travel" : "$2.50"
+		}
+	},
+	{
+		"first" : "Cory",
+		"last" : "Johnson",
+		"age" : "42",
+		"money" : {
+			"food" : "$9.80",
+			"clothing" : "$15.46",
+			"housing" : "$51.24",
+			"travel" : "$2.50"
+		}
+	},
+	{
+		"first" : "Richard",
+		"last" : "Cook",
+		"age" : "52",
+		"money" : {
+			"food" : "$9.80",
+			"clothing" : "$15.46",
+			"housing" : "$51.24",
+			"travel" : "$2.50"
+		}
+	},
+	{
+		"first" : "Kieth",
+		"last" : "Smith",
+		"age" : "35",
+		"money" : {
+			"food" : "$9.80",
+			"clothing" : "$15.46",
+			"housing" : "$51.24",
+			"travel" : "$2.50"
+		}
+	},
+];
